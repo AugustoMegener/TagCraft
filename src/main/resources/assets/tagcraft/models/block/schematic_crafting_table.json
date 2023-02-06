@@ -1,0 +1,11 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "down": "tagcraft:block/schematic_crafting_table/bottom",
+    "up": "tagcraft:block/schematic_crafting_table/top",
+    "north": "tagcraft:block/schematic_crafting_table/front",
+    "south": "tagcraft:block/schematic_crafting_table/front",
+    "west": "tagcraft:block/schematic_crafting_table/side",
+    "east": "tagcraft:block/schematic_crafting_table/side"
+  }
+}
