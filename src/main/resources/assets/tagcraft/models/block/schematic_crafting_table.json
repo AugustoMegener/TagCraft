@@ -6,6 +6,7 @@
     "north": "tagcraft:block/schematic_crafting_table/front",
     "south": "tagcraft:block/schematic_crafting_table/front",
     "west": "tagcraft:block/schematic_crafting_table/side",
-    "east": "tagcraft:block/schematic_crafting_table/side"
+    "east": "tagcraft:block/schematic_crafting_table/side",
+    "particle": "tagcraft:block/schematic_crafting_table/bottom"
   }
 }
